@@ -8,7 +8,7 @@ public class EmployeeTest {
 	public static void main(String[] args) throws EmployeeException {
 		
 		  EmployeeService employeeService=new EmployeeService();
-		  employeeService.testByName(null);
+		  employeeService.findName("name");
 		  
 	}
 }
