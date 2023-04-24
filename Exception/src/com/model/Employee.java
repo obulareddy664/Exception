@@ -1,5 +1,9 @@
 package com.model;
-
+/**
+ * The class Employee
+ * @author obula
+ *
+ */
 public class Employee {
 
 	private String userName;
